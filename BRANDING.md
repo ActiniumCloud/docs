@@ -9,4 +9,4 @@
 ### ActiniumCloud blue
 <img src="https://media.discordapp.net/attachments/942752642583642162/946848197769318420/unknown.png" width="50%"/>
 HEX: #19ceda
-RGB: rgba(25,206,218,255)
+<br>RGB: rgba(25,206,218,255)
