@@ -13,7 +13,7 @@
 
 ## VPS cloud
 
-![image](https://user-images.githubusercontent.com/66362261/158070929-8527653d-3622-4057-a1c9-4a75fb6e0be8.png)
+<img src="https://user-images.githubusercontent.com/66362261/158070929-8527653d-3622-4057-a1c9-4a75fb6e0be8.png" width="60%"/>
 <br>* 2 vCores, 4GB RAM and 40GB SSD<br>
 ** Listed prices do not include TAX. Prices are taken in March 2022. 
 
